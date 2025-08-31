@@ -1,0 +1,5 @@
+{ 
+  baseURL: "http://115.215.67.147:8848/volunteer",
+  timeout: "60000",
+  defaultLange: "zh",
+}
